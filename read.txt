@@ -1,0 +1,12 @@
+connect to DB(Mongo DB)
+1. Instal Mangoose
+
+// MOngoDB Pass //qjIYAoV1xdPNaImm
+
+
+
+Express-resource can be found at
+
+https://www.npmjs.com/package/express
+or 
+https://expressjs.com/en/starter/hello-world.html
