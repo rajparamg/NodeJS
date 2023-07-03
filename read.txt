@@ -1,8 +1,12 @@
-connect to DB(Mongo DB)
-1. Instal Mangoose
+0. download & Install nodejs and install expressjs
 
-// MOngoDB Pass //qjIYAoV1xdPNaImm
 
+1. connect to DB(Mongo DB)
+Instal Mangoose package to connect to MOngoDB like Database
+
+// MOngoDB Pass
+
+2. npm install nodemon -D
 
 
 Express-resource can be found at
